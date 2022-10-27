@@ -6,6 +6,7 @@ Technical Acceptance Criteria: 40%
         Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
             *** Bundled several classes together ***
         Application's CSS file is properly commented.
+            *** Commented all classes inside the .css file ***
 
 Deployment: 32%
 
